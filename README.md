@@ -3,7 +3,8 @@
 Proyecto de práctica donde desarrollé una calculadora funcional usando HTML, CSS y JavaScript.
 
 ## 🚀 Demo
-calculadora-aquamarine.netlify.app
+
+👉 [🚀 Ver Demo en vivo](calculadora-aquamarine.netlify.app)
 
 ## 🛠️ Tecnologías
 - HTML5
