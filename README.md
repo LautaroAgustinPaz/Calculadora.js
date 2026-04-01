@@ -4,7 +4,7 @@ Proyecto de práctica donde desarrollé una calculadora funcional usando HTML, C
 
 ## 🚀 Demo
 
-👉 [Ver Demo en vivo](calculadora-aquamarine.netlify.app)
+👉 [Ver la calculadora en vivo](https://calculadora-aquamarine.netlify.app)
 
 ## 🛠️ Tecnologías
 - HTML5
